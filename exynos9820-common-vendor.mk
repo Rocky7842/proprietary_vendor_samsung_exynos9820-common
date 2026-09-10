@@ -77,6 +77,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libGLES_mali \
     vulkan.mali \
+    lib_SoundBooster_ver1050 \
     libsecnativefeature \
     libsecril-client \
     libsemnativecarrierfeature \
